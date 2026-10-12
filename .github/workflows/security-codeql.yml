@@ -2,8 +2,6 @@
 name: Security - CodeQL
 
 on:
-  schedule:
-    - cron: '0 10 * * 1'
   workflow_dispatch:
 
 permissions:
